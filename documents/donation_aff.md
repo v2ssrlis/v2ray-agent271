@@ -1,4 +1,6 @@
-- [TG群](https://t.me/technologyshare)、[TG频道-更新通知](https://t.me/joinchat/VuYxsKnlIQp3VRw-)、[博客地址](https://www.v2ray-agent.com/)
+- [TG群](https://t.me/technologyshare)、[TG频道-更新通知](https://t.me/joinchat/VuYxsKnlIQp3VRw-)
+
+> [更加详细的推荐可以点击查看](https://www.v2ray-agent.com/categories/vps)
 
 # 网络差异比较大，买之前建议执行以下两个步骤
 - 测试一下testIP的丢包，traceroute一下testIP的路由，是否商家宣传的一样
@@ -17,7 +19,7 @@
 ## 2.推荐商家
 ### 1.[搬瓦工](https://bandwagonhost.com/cart.php?aff=64917)
 - 老牌商家在vps圈声望比较高，非常稳定，补货后基本很快会被抢空
-- 6.58%折扣码：BWH3HYATVBJW
+- 6.81%折扣码：BWHNCXNVXV
 - 12%优惠码：BWHNY2022
 
 
@@ -96,7 +98,6 @@ LAX:SimpleCloud V01 电信gia 联通AS9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 
 
 套餐名称|内存|CPU| 硬盘(SSD) |流量|带宽|价格|购买链接
 ---|-------|---|---|---|---|---|---
-512 MB KVM VPS (New Year 2022)|768M|1核| 10 GB SSD|1T|1Gbps|$9.89 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=620)
 768 MB KVM VPS Special|768MB|1核| 10 GB NVMe SSD Storage           |2T|1Gbps|$11.88 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=679)
 1 GB KVM VPS (New Year 2022)|1G|1核| 20 GB Pure SSD                   |2T|1Gbps|$13.98 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=621)
 1 GB KVM VPS Special |1G|1核| 20 GB SSD Cached RAID-10 Storage |3T|1Gbps|$14.98 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=680)
@@ -141,7 +142,7 @@ PVM.SJC.GIANT| 16G   |8vCPU|400G|44T|10Gbps|$199.9 USD/月|[点击购买](https:
 ### 1.[搬瓦工](https://bandwagonhost.com/cart.php?aff=64917)
 - 老牌商家在vps圈声望比较高，非常稳定，补货后基本很快会被抢空
 - 不接受退款
-- 6.58%折扣码：BWH3HYATVBJW
+- 6.81%折扣码：BWHNCXNVXV
 - location是【JP-Equinix Osaka Softbank】
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格|购买链接
@@ -172,6 +173,8 @@ CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/�
 - 去程有可能更换
 - 线路实测为主
 - [speedtest](http://dmit-hkg-lite.gubo.org/speedtest/)
+- 不建议非移动用户购买
+- lite路由可能会随时更改，买之前请多次测试回程和去程路由
 - 测试ip：103.135.248.22
 
 #### 去程
@@ -180,7 +183,7 @@ CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/�
 - 移动CMI
 
 #### 回程
-- 三网CMI
+- 移动CMI
 
 #### 折扣码【仅适用于 STARTER 及以上规格的 Lite 产品，TINY 不包含在内】
 - 年付七折：Lite-Annually-Recur-30OFF
